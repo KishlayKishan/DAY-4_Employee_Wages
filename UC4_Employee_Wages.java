@@ -4,7 +4,7 @@
  * @Author::Kishlay Kishan
  */
 
-package employee_wage;
+package Employee_Wage_Computation;
 
 import java.util.Random;
 
